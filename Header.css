@@ -1,0 +1,48 @@
+.header{
+  display: flex;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  z-index: 999;
+  justify-content: space-between;
+
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.header_logo{
+    position: fixed;
+    object-fit: contain;
+    width: 100px;
+    left: 15px;
+}
+
+.header_userIcon{
+    position: fixed;
+    object-fit: contain;
+    width: 30px;
+    right: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
